@@ -1,0 +1,3 @@
+kaggle kernels output tyrrex/shruti-s-emotion-detection -p /path/to/dest
+
+this command will download the output into the local machine from kaggle
